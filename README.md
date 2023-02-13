@@ -8,13 +8,14 @@ Angular based UI for managing code snippets
 
 ### Table of Contents
 
-[Description](https://github.com/dianas11xx/snypy-frontend#Description)
-[Required Tools](https://github.com/dianas11xx/snypy-frontend#Required-Tools)
-[How to Create Development server](https://github.com/dianas11xx/snypy-frontend#How-to-Create-Development-server)
-[How to Build](https://github.com/dianas11xx/snypy-frontend#How-to-Build)
-[License](https://github.com/dianas11xx/snypy-frontend#License)
+* [Description](https://github.com/dianas11xx/snypy-frontend#Description)
+* [Required Tools](https://github.com/dianas11xx/snypy-frontend#Required-Tools)
+* [How to Create Development server](https://github.com/dianas11xx/snypy-frontend#How-to-Create-Development-server)
+* [How to Build](https://github.com/dianas11xx/snypy-frontend#How-to-Build)
+* [License](https://github.com/dianas11xx/snypy-frontend#License)
 
 <br />
+
 ## Description
 
 Welcome to our project! This is an Angular based UI that helps you manage/organize code snippets and share it with out team. Through this application, you are able to:
@@ -38,15 +39,21 @@ This application uses the Angular framework, so it uses:
 * JavaScript
 * HTML
 * CSS
+
 <br />
+
 It requires an active LTS version fo Node.js, avaliable to download [here](https://nodejs.org/en/),
 and an npm package manager. 
+
 <br />
+
 To get started with npm, you have to create an [npm account](https://www.npmjs.com/signup) and then [install npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm), or by using the command:
 * npm install -g npm
 <br />
 The next step is to install Angular CLI using the following command:
+
 * npm install -g @angular/cli
+
 <br />
 For more information on installing Angular tools, visit https://angular.io/guide/setup-local
 
